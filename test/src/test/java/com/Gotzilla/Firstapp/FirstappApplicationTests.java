@@ -1,10 +1,10 @@
-package test.example.test_backend;
+package com.Gotzilla.Firstapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestBackendApplicationTests {
+class FirstappApplicationTests {
 
 	@Test
 	void contextLoads() {
